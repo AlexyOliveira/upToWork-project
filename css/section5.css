@@ -1,19 +1,19 @@
 .section-5-container {
-    background-color: #fffdff;
-    text-align: center;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-bottom: 70px;
-    padding-top: 50px;
+  background-color: #fffdff;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 70px;
+  padding-top: 50px;
 }
 
 .section-5-container h1 {
-    padding-top: 20px;
-    font-size: 40px;
+  padding-top: 20px;
+  font-size: 40px;
 }
 
 .section-5-text {
-    width: 35%;
+  width: 35%;
 }

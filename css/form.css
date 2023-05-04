@@ -1,49 +1,49 @@
 .form-container {
-    border: 25px solid #bc122a;
-    height: auto;
+  border: 25px solid #bc122a;
+  height: auto;
 }
 
 .form-container h1 {
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  text-align: center;
 }
 
 form {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
-    padding-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 10px;
 }
 
 .input-text-area {
-    width: auto;
-    height: auto;
-    font-weight: 500;
+  width: auto;
+  height: auto;
+  font-weight: 500;
 }
 
 .input-text-area input {
-    width: 300px;
-    background-color: #d4d2d4;
-    border: none;
-    margin-top: 5px;
+  width: 300px;
+  background-color: #d4d2d4;
+  border: none;
+  margin-top: 5px;
 }
 
 .input-radio-area {
-    width: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    height: 204px;
-    font-size: 20px;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 204px;
+  font-size: 20px;
 }
 
 .form-btn {
-    background-color: #bd112b;
-    border: none;
-    color: white;
-    font-size: medium;
-    padding: 5px;
-    margin: 15px;
-    width: 100px;
+  background-color: #bd112b;
+  border: none;
+  color: white;
+  font-size: medium;
+  padding: 5px;
+  margin: 15px;
+  width: 100px;
 }

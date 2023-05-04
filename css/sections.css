@@ -1,18 +1,18 @@
 .section-container {
-    background-color: #fffdff;
-    text-align: center;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  background-color: #fffdff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
 }
 .section-container h1 {
-    padding-top: 20px;
-    font-size: 40px;
+  padding-top: 20px;
+  font-size: 40px;
 }
 
 .section-container img {
-    width: 400px;
+  width: 400px;
 }
 .section-container-itens {
   display: flex;
@@ -23,18 +23,21 @@
 }
 
 .section-container-text {
-    width: 35%;
+  width: 35%;
 }
 
 .btn {
-    background-color: #bd112b;
-    border: none;
-    color: white;
-    font-size: larger;
-    padding: 10px;
-    margin: 25px;
+  background-color: #bd112b;
+  border: none;
+  color: white;
+  font-size: larger;
+  padding: 10px;
+  margin: 25px;
 }
 
 .btn:active {
-    background-color: #bd112b82;
+  background-color: #bd112b82;
+}
+
+@media (max-width: 818px) {
 }
