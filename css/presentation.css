@@ -1,0 +1,31 @@
+.presentation {
+  background-color: #bc122a;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  flex-wrap:wrap ;
+}
+
+.presentation img {
+  width: 400px;
+}
+
+.presentation-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.presentation-text h1 {
+  font-size: 40px;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.p-text {
+  margin: 5px;
+  padding: 7px;
+  font-size: 18px;
+  width: 200px;
+}

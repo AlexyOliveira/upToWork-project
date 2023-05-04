@@ -1,0 +1,40 @@
+.section-container {
+    background-color: #fffdff;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-container h1 {
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+.section-container img {
+    width: 400px;
+}
+.section-container-itens {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 30px;
+}
+
+.section-container-text {
+    width: 35%;
+}
+
+.btn {
+    background-color: #bd112b;
+    border: none;
+    color: white;
+    font-size: larger;
+    padding: 10px;
+    margin: 25px;
+}
+
+.btn:active {
+    background-color: #bd112b82;
+}
